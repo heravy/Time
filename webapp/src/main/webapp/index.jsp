@@ -6,7 +6,7 @@
         <title>Time</title>
     </head>
     <body>
-        <h1>Time Version_454545</h1>
+        <h1>Time Version_020202</h1>
         <hr />
         <p>Modified from: <a href="https://github.com/jhawithu/hello-world" target="new">https://github.com/jhawithu/hello-world</a></p>
     </body>
